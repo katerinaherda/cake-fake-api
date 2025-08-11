@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Pink Delight",
+      "price": 10,
+      "image": "https://raw.githubusercontent.com/katerinaherda/cake-fake-api/main/src/1.avif"
+    },
+    {
+      "id": 2,
+      "title": "Strawberry Dream",
+      "price": 30,
+      "image": "https://raw.githubusercontent.com/katerinaherda/cake-fake-api/main/src/2.avif"
+    },
+    {
+      "id": 3,
+      "title": "Rose Bliss",
+      "price": 20,
+      "image": "https://raw.githubusercontent.com/katerinaherda/cake-fake-api/main/src/3.avif"
+    },
+    {
+      "id": 4,
+      "title": "Berry Charm",
+      "price": 50,
+      "image": "https://raw.githubusercontent.com/katerinaherda/cake-fake-api/main/src/4.avif"
+    },
+    {
+      "id": 5,
+      "title": "Choco Strawberry Bliss",
+      "price": 40,
+      "image": "https://raw.githubusercontent.com/katerinaherda/cake-fake-api/main/src/5.avif"
+    },
+    {
+      "id": 6,
+      "title": "Double Choco Berry",
+      "price": 60,
+      "image": "https://raw.githubusercontent.com/katerinaherda/cake-fake-api/main/src/6.avif"
+    }
+]
